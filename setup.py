@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name='flake8-config-yoctol',
-    version='0.0.9',
+    version='0.0.10',
     url='https://github.com/Yoctol/flake8-config-yoctol',
     author="cph",
     author_email='cph@yoctol.com',
